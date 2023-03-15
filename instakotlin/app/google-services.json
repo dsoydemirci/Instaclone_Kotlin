@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "355779063615",
+    "project_id": "kotlininsta1-4e2d6",
+    "storage_bucket": "kotlininsta1-4e2d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355779063615:android:988bb09dc8d914c4e2ed8a",
+        "android_client_info": {
+          "package_name": "com.soydemircidogukan.instakotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355779063615-7n6r0a45q56m11eruvvm6j35n33dcfrs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcDoMOyzieEDTRDyhoi-lRos5Dx2_xK6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355779063615-7n6r0a45q56m11eruvvm6j35n33dcfrs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
